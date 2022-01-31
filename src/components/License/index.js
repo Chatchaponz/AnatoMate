@@ -30,7 +30,7 @@ const License = () => {
           width={800}
         >
           <p>
-            <b>License of Agreement</b>
+            <b>License Agreement</b>
           </p>
           <p style={{ textAlign: "justify" }}>
             &emsp;ซอฟต์แวร์นี้เป็นผลงานที่พัฒนาขึ้นโดย นายชัชพล สุกิจพรอุดม
